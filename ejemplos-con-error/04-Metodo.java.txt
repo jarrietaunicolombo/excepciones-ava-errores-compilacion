@@ -1,0 +1,5 @@
+public class Ejemplo {
+    public static void main(String[] args) {
+        imprimirSaldo(100); // ERROR: no se ha declarado este método
+    }
+}

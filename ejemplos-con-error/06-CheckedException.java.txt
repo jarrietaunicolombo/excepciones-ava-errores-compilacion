@@ -1,0 +1,8 @@
+import java.nio.file.Files;
+import java.nio.file.Path;
+public class Ejemplo {
+    public static void main(String[] args) {
+        String contenido = Files.readString(Path.of("datos.txt")); // ERROR: IOException no gestionada ni declarada
+        System.out.println(contenido);
+    }
+}

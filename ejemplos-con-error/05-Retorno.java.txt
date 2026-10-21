@@ -1,0 +1,8 @@
+public class Ejemplo {
+    static int sumar(int a, int b) {
+        System.out.println(a + b); // ERROR: falta devolver un int
+    }
+    public static void main(String[] args) {
+        System.out.println(sumar(2, 3));
+    }
+}

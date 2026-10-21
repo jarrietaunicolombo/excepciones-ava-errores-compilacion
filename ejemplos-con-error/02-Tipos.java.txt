@@ -1,0 +1,6 @@
+public class Ejemplo {
+    public static void main(String[] args) {
+        int edad = "veinte"; // ERROR: String no se convierte en int
+        System.out.println(edad);
+    }
+}
