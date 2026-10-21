@@ -1,4 +1,4 @@
-# Proyecto 01 — Errores de compilación en Java
+# Proyecto 01: Errores de compilación en Java
 
 **Requisitos:** JDK 21 y Maven 3.9+.
 
